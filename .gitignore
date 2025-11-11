@@ -1,0 +1,10 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+*.sdf
+*.opensdf
+*.suo
+*.xcodeproj
